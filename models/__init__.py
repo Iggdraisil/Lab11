@@ -1,4 +1,3 @@
-from models.shoes import Shoes
 from models.childAge import ChildAge
 from models.childShoes import ChildShoes
 from models.season import Season
